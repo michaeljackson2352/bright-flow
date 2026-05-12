@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-05-08T15:34:23Z
-Entry: test: add unit test coverage for request authentication
-Sequence: 25/88
+Last updated: 2026-05-12T10:59:35Z
+Entry: fix: correct typo in documentation and error return strings
+Sequence: 26/88
